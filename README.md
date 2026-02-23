@@ -10,7 +10,7 @@ Soy un ingeniero enfocado en el desarrollo de soluciones escalables y sistemas m
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Backend** | Python, Node.js, PHP (Yii2), MySQL, Firebase, Prisma |
+| **Backend** | Python, Node.js, MySQL, Firebase, Prisma |
 | **Frontend** | Angular, React, Flutter, TypeScript |
 | **AI & Data** | PyTorch, Transformers (BERT/RoBERTa), Reinforcement Learning |
 | **Immersive** | Unity (C#), AR/VR Development |
