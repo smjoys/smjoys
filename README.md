@@ -2,6 +2,7 @@
 
 ### Ingeniero Civil en Informática | Full Stack Developer | AI & Game Dev Enthusiast
 
+Soy un ingeniero enfocado en el desarrollo de soluciones escalables y sistemas modernos. Cuento con experiencia sólida en el diseño de **Microservicios** y el desarrollo de aplicaciones inmersivas. Mi enfoque principal es crear código limpio, eficiente y orientado a resultados.
 Soy un ingeniero apasionado por la intersección entre la tecnología y la narrativa. Me especializo en el desarrollo de **Microservicios**, aplicaciones inmersivas en **Unity**. Mi enfoque combina el rigor técnico con una curiosidad constante por el futuro de la informática.
 
 ---
@@ -33,7 +34,6 @@ Cuando no estoy construyendo software, me encuentro explorando otros mundos:
 * **Cine y TV:** Disfruto analizando los conceptos técnicos en obras como *The Twilight Zone*, *Total Recall* y *The Day the Earth Stood Still*.
 * **Lectura:** Actualmente sumergido en el universo de Frank Herbert y siguiendo 3 novelas ligeras. 
 * **Gaming:** Optimización de builds en **Monster Hunter World** (Long Sword & Switch Axe).
-* **Ingeniería:** Curioso por la mecánica automotriz (Motores V8, V12 y Rotativos).
 
 ---
 
@@ -41,4 +41,3 @@ Cuando no estoy construyendo software, me encuentro explorando otros mundos:
 
 * 📍 San Carlos / Chillán, Chile
 * 💬 Hablemos sobre: Microservicios, Unity, IA o recomendaciones de Sci-Fi.
-* ⚡ Fun fact: Mi receta de papas fritas es "crujiente por fuera y **blanda por dentro**".
