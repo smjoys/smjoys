@@ -3,7 +3,6 @@
 ### Ingeniero Civil en Informática | Full Stack Developer | AI & Game Dev Enthusiast
 
 Soy un ingeniero enfocado en el desarrollo de soluciones escalables y sistemas modernos. Cuento con experiencia sólida en el diseño de **Microservicios** y el desarrollo de aplicaciones inmersivas. Mi enfoque principal es crear código limpio, eficiente y orientado a resultados.
-Soy un ingeniero apasionado por la intersección entre la tecnología y la narrativa. Me especializo en el desarrollo de **Microservicios**, aplicaciones inmersivas en **Unity**. Mi enfoque combina el rigor técnico con una curiosidad constante por el futuro de la informática.
 
 ---
 
