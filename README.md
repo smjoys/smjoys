@@ -21,8 +21,6 @@ Cuando no estoy construyendo software, me encuentro explorando otros mundos:
 |:---:|:---:|:---:|
 | Actualmente: *Dune* (Frank Herbert) + 3 light novels | The Twilight Zone · Total Recall · Star Trek | Monster Hunter World — Long Sword & Switch Axe |
 
-> *Creo que la ciencia ficción no predice el futuro — lo diseña. Y eso me parece fascinante.*
-
 ---
 
 ## 🛠️ Stack Tecnológico
