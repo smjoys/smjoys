@@ -1,14 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Isaac%20Flores&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Immersive%20Systems&descAlignY=60&descColor=a78bfa" />
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██╗███████╗ █████╗  █████╗  ██████╗                       ║
+║   ██║██╔════╝██╔══██╗██╔══██╗██╔════╝                       ║
+║   ██║███████╗███████║███████║██║                             ║
+║   ██║╚════██║██╔══██║██╔══██║██║                             ║
+║   ██║███████║██║  ██║██║  ██║╚██████╗                       ║
+║   ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝                       ║
+║                                                              ║
+║       Full Stack · DevOps · Immersive Systems                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+# Isaac Flores
+### `Full Stack Developer` · `DevOps` · `Immersive Systems`
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.dev)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-flores-4517363aa)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaac.ores2101@alumnos.ubiobio.cl)
 [![Location](https://img.shields.io/badge/📍_Chile-San_Carlos_%2F_Chillán-10B981?style=for-the-badge)](https://maps.google.com/?q=Chillan,Chile)
 
 </div>
@@ -17,7 +32,7 @@
 
 ## 👋 Hola, soy Isaac Flores
 
-**Ingeniero Civil en Informática** con foco en arquitecturas escalables, IA aplicada y desarrollo inmersivo. Me especializo en construir sistemas que resuelven problemas reales: desde microservicios en producción hasta experiencias AR/VR y modelos de lenguaje natural.
+**Ingeniero Civil en Informática** (Universidad del Bío-Bío) con foco en desarrollo full-stack, arquitecturas escalables y sistemas inmersivos. Me especializo en construir aplicaciones web, móviles y AR/VR que resuelven problemas reales, aplicando buenas prácticas y metodologías ágiles.
 
 > *"Creo software que funciona hoy y escala mañana."*
 
@@ -44,10 +59,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### AI & Datos
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Transformers_(BERT%2FRoBERTa)-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+### 🔭 Exploración Académica
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch_(básico)-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Transformers_(universitario)-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Inmersivo
 ![Unity](https://img.shields.io/badge/Unity_(C%23)-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -79,13 +94,13 @@ Diseño e implementación de una arquitectura orientada a microservicios con con
 
 ---
 
-### 🧠 NLP & Modelos Transformer
-> **IA aplicada al procesamiento de lenguaje natural**
+### 🧠 Exploración en NLP — Modelos Transformer
+> **Proyecto académico universitario**
 
-Implementación de modelos BERT y RoBERTa (fine-tuning) para tareas de clasificación, análisis de sentimiento y extracción de información. Integración con pipelines de datos reales.
+Durante la carrera, trabajé con modelos BERT y RoBERTa para tareas de clasificación de texto y análisis de sentimiento. Fue una introducción práctica al área de procesamiento de lenguaje natural que me generó interés por seguir profundizando.
 
 **Stack:** Python · PyTorch · HuggingFace Transformers  
-`#NLP` `#DeepLearning` `#BERT`
+`#Académico` `#NLP` `#Aprendizaje`
 
 ---
 
@@ -93,14 +108,14 @@ Implementación de modelos BERT y RoBERTa (fine-tuning) para tareas de clasifica
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=smjoys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smjoys&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=smjoys&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -120,16 +135,22 @@ Cuando no estoy construyendo software, me encuentro explorando otros mundos:
 
 ## 💬 Hablemos
 
-¿Tienes un proyecto de **microservicios**, **IA aplicada**, **Unity** o simplemente quieres debatir si Dune o Star Trek tiene mejor worldbuilding?
+¿Tienes un proyecto de **microservicios**, **DevOps**, **Unity** o simplemente quieres debatir si Dune o Star Trek tiene mejor worldbuilding?
 
 <div align="center">
 
 **Abierto a oportunidades laborales · Remoto o presencial en Chile**
 
-[![LinkedIn](https://img.shields.io/badge/Escríbeme_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/Escríbeme_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-flores-4517363aa)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Isaac Flores · Full Stack · DevOps · Immersive · Chile 🇨🇱
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 </div>
