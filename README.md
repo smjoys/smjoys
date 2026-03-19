@@ -13,9 +13,7 @@
 
 ---
 
-## 🌌 Más allá del código
-
-Cuando no estoy construyendo software, me encuentro explorando otros mundos:
+## 🌌 Mis hobbies
 
 | 📚 Lectura | 🎬 Cine & TV | 🎮 Gaming |
 |:---:|:---:|:---:|
