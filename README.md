@@ -98,8 +98,9 @@ Cuando no estoy construyendo software, me encuentro explorando otros mundos:
 
 <div align="center">
 
-```
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Isaac Flores · Full Stack · DevOps · Immersive · Chile 🇨🇱
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+
+</div>
