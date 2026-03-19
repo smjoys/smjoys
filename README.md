@@ -19,8 +19,6 @@
 
 **Ingeniero Civil en Informática** (Universidad del Bío-Bío) con foco en desarrollo full-stack, arquitecturas escalables y sistemas inmersivos. Me especializo en construir aplicaciones web, móviles y AR/VR que resuelven problemas reales, aplicando buenas prácticas y metodologías ágiles.
 
-> *"Creo software que funciona hoy y escala mañana."*
-
 ---
 
 ## 🛠️ Stack Tecnológico
