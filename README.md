@@ -5,14 +5,6 @@
 
 </div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-flores-4517363aa)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iefh00@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Chile-San_Carlos_%2F_Chillán-10B981?style=for-the-badge)](https://maps.google.com/?q=Chillan,Chile)
-
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hola, soy Isaac Flores
