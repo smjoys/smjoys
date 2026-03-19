@@ -57,38 +57,6 @@
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 🎭 Plataforma Inmersiva — Marta Brunet
-> **Proyecto de Título | Nota 6.9/7.0**
-
-Aplicación móvil AR/VR para la difusión del patrimonio literario de Marta Brunet. Combina reconocimiento de imágenes con experiencias inmersivas para conectar al usuario con la obra de la escritora chilena.
-
-**Stack:** Unity (C#) · Flutter · Firebase · AR Foundation  
-`#AR/VR` `#PatrimonioCultural` `#MóvilFirst`
-
----
-
-### ⚙️ Arquitectura de Microservicios
-> **Sistema de producción con CI/CD completo**
-
-Diseño e implementación de una arquitectura orientada a microservicios con contenedores Docker, pipelines automatizados con GitHub Actions y Jenkins, y despliegue sobre AWS EC2.
-
-**Stack:** Node.js · Docker · GitHub Actions · Jenkins · AWS EC2  
-`#Microservices` `#DevOps` `#CloudInfrastructure`
-
----
-
-### 🧠 Exploración en NLP — Modelos Transformer
-> **Proyecto académico universitario**
-
-Durante la carrera, trabajé con modelos BERT y RoBERTa para tareas de clasificación de texto y análisis de sentimiento. Fue una introducción práctica al área de procesamiento de lenguaje natural que me generó interés por seguir profundizando.
-
-**Stack:** Python · PyTorch · HuggingFace Transformers  
-`#Académico` `#NLP` `#Aprendizaje`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
