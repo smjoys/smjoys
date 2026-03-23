@@ -59,7 +59,11 @@
 ![HuggingFace](https://img.shields.io/badge/Transformers_(universitario)-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
-
+<div align="center">
+---
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)](https://github.com/TU_USUARIO)
+---
+</div>
 
 ## 🤝 Contáctame
 
