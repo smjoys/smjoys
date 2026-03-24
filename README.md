@@ -58,12 +58,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch_(básico)-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Transformers_(universitario)-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-</div>
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smjoys&layout=compact)](https://github.com/smjoys)
-
-</div>
 
 ## 🤝 Contáctame
 
